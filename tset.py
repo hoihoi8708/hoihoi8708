@@ -1,3 +1,3 @@
 print("hi")
 print("hello")
-print("안뇽")
+print("Dobby is Free")
